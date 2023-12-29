@@ -1,6 +1,10 @@
-# groceryapp
+# Groceryapp
 
-A new Flutter project.
+Groceryapp is a mobile app that allows users to select and purchase vegetables and fruits.
+
+**Screenshots**
+
+
 
 ## Getting Started
 
