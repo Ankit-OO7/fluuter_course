@@ -12,16 +12,11 @@ Groceryapp is a mobile app that allows users to select and purchase vegetables a
 
 ![fourth](https://github.com/Ankit-OO7/fluuter_course/assets/135164319/5d2e5461-7ff3-4002-b3c1-f3fdb9ef2077)
 
+To run the app,
+1. Clone the repository
+2. Navigate to project directory
+3. Install dependencies:
+      cd groceryapp
+4. Run the app:
+      flutter run
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
